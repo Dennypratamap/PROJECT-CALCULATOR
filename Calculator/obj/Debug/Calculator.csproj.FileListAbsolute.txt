@@ -1,0 +1,12 @@
+E:\Tama\Latihan_Praktikum2_21114140\Calculator\bin\Debug\Calculator.exe.config
+E:\Tama\Latihan_Praktikum2_21114140\Calculator\bin\Debug\Calculator.exe
+E:\Tama\Latihan_Praktikum2_21114140\Calculator\bin\Debug\Calculator.pdb
+E:\Tama\Latihan_Praktikum2_21114140\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\Tama\Latihan_Praktikum2_21114140\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+E:\Tama\Latihan_Praktikum2_21114140\Calculator\obj\Debug\Calculator.Calculator.resources
+E:\Tama\Latihan_Praktikum2_21114140\Calculator\obj\Debug\Calculator.Form1.resources
+E:\Tama\Latihan_Praktikum2_21114140\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Tama\Latihan_Praktikum2_21114140\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Tama\Latihan_Praktikum2_21114140\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Tama\Latihan_Praktikum2_21114140\Calculator\obj\Debug\Calculator.exe
+E:\Tama\Latihan_Praktikum2_21114140\Calculator\obj\Debug\Calculator.pdb
